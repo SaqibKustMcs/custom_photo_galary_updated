@@ -1,4 +1,6 @@
 # custom_photo_galary_updated
+version 3.29.3
+flutter project:/Users/blockfy/Documents/strings_app
 
 A new Flutter project.
 
